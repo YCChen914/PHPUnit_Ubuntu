@@ -1,0 +1,17 @@
+{
+    "name": "csz890914/php-unit_ubuntu",
+    "description": "test",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Paul Chen",
+            "email": "s08353010@go.thu.edu.tw"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
